@@ -1,0 +1,19 @@
+http://jquery.com/download/				[MIT License]
+http://www.appelsiini.net/projects/viewport		[MIT License]
+https://github.com/joeldbirch/superfish/ 		[MIT License]
+http://bxslider.com					[MIT License]
+http://dimsemenov.com/plugins/magnific-popup/		[MIT License]
+http://isotope.metafizzy.co/ 				[Purchased Developer license]
+http://www.ianlunn.co.uk/plugins/jquery-parallax/  	[MIT License]
+http://rendro.github.io/easy-pie-chart/		 	[MIT License]
+https://github.com/pupunzi/jquery.mb.YTPlayer		[GPL License]
+http://os.alfajango.com/easytabs/ 			[MIT License]
+https://github.com/imakewebthings/jquery-waypoints 	[GPL License]
+https://github.com/jzaefferer/jquery-validation 	[MIT License]
+http://jquery.malsup.com/form/ 				[MIT License]
+http://labs.mario.ec/jquery-gmap/  			[MIT License]
+
+Custom icon set -  http://icons8.com/			[Purchased iOS7 No link + vector source license. The template includes strictly the icons 
+							 that we used in the design, so NOT the whole package. The icons are added as an icon font
+							 only ( both requirements of fair usage according to the license aggrement). if you need 
+							 all the icons or need psd and svg sources please buy a license for yourself as well. ]
